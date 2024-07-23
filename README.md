@@ -1,4 +1,4 @@
-# <img src="/Users/eleme/Documents/GitHub/distil-coder/screenshots/deslk_512.png" alt="deslk_512" style="zoom:50%;" />
+# <img src="screenshots/deslk_512.png" alt="deslk_512" style="zoom:10%;" />
 
 # DistilCoder
 
